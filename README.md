@@ -42,11 +42,11 @@ A=SS
 - 未设置开机启动
 
 ## 安装 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/AR-B-P-B/master/install.sh && bash install.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/install.sh && bash install.sh
     
 ## 高级版-非官方项目 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/AR-B-P-B/master/develop-install.sh && bash develop-install.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/develop-install.sh && bash develop-install.sh
 
 ## 自检 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/AR-B-P-B/master/self-check.sh && bash self-check.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/self-check.sh && bash self-check.sh
 
