@@ -59,9 +59,9 @@ fi
 
 #Install SSR and SSR-Bash
 cd /usr/local
-git clone https://github.com/Admin-backups/AR.git
+git clone https://github.com/lnkstls/AR.git
 mv AR shadowsocksr
-git clone https://github.com/Admin-backups/AR-B-P-B.git
+git clone https://github.com/lnkstls/AR-BPB.git
 mv AR-B-P-B SSR-Bash-Python
 cd /usr/local/shadowsocksr
 bash initcfg.sh
