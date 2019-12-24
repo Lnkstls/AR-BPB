@@ -141,7 +141,7 @@ systemctl enable iptables.service
 fi
 
 #Install SSR-Bash Background
-wget -N --no-check-certificate -O /usr/local/bin/ssr https://raw.githubusercontent.com/Admin-backups/AR-B-P-B/master/ssr
+wget -N --no-check-certificate -O /usr/local/bin/ssr https://raw.githubusercontent.com/lnkstls/AR-BPB/master/ssr
 chmod +x /usr/local/bin/ssr
 
 #Modify ShadowsocksR API
@@ -152,7 +152,4 @@ sed -i "s/SERVER_PUB_ADDR = '127.0.0.1'/SERVER_PUB_ADDR = '$(wget -qO- -t1 -T2 i
 bash /usr/local/SSR-Bash-Python/self-check.sh
 echo '安装完成！输入 ssr 即可使用本程序~'
 echo '原作者已经停止本脚本服务，此版本为2017.7.20号的备份（带最新端口限速）'
-echo '还好在作者删服务前备份了'
-echo '谨慎使用！仅供研究！'
-echo '谨慎使用！仅供研究！'
-echo '谨慎使用！仅供研究！'
+echo '最新修改版需自主执行一次高级版！'
