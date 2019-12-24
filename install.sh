@@ -151,5 +151,6 @@ sed -i "s/SERVER_PUB_ADDR = '127.0.0.1'/SERVER_PUB_ADDR = '$(wget -qO- -t1 -T2 i
 #INstall Success
 bash /usr/local/SSR-Bash-Python/self-check.sh
 echo '原作者已经停止本脚本服务，此版本为2017.7.20号的备份（带最新端口限速）'
-echo '原版安装完成！开始更新最新版~'
+echo '自动更新至最新修改版~（5秒后开始）'
+sleep: 5s
 wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/develop-install.sh && bash develop-install.sh
