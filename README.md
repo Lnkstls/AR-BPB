@@ -43,5 +43,5 @@ A=SS
     wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/self-check.sh && bash self-check.sh
     
 ## 说明 ##
-    此版为最后备份版，出现问题概不负责！
+此版为最后备份版，出现问题概不负责！
 
