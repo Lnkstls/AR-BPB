@@ -39,4 +39,4 @@ fi
 echo "############Firewall test" >> report.json
 iptables -L >> /root/report.json
 
-echo "检测完成，未发现严重问题，如仍有任何问题请提交report.json"
+echo "检测完成，未发现严重问题，因作者已停止维护，且用且珍惜！"
