@@ -16,10 +16,6 @@ A=SS
 
 一个Shell脚本，集成AR多用户管理，流量限制，加密更改等基本操作。是一个基于AR官方的mujson的辅助脚本。方便用户操作
 
-## 备份日志 ##
-- 2017-7-20 作者的最后版本
-- 2019-10-13 作者的最后版本的非官方延伸版本
-
 ## 系统支持 ##
 * Ubuntu 14
 * Ubuntu 16
@@ -39,14 +35,13 @@ A=SS
 
 ## 缺点 ##
 - 无法删除最后一名用户（官方限制）
-- 未设置开机启动
 
 ## 安装 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/install.sh && bash install.sh
     
-## 高级版-非官方项目 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/develop-install.sh && bash develop-install.sh
-
 ## 自检 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/self-check.sh && bash self-check.sh
+    
+## 说明 ##
+    此版为最后备份版，出现问题概不负责！
 
