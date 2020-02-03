@@ -42,6 +42,7 @@ A=SS
 ## 自检 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/lnkstls/AR-BPB/master/self-check.sh && bash self-check.sh
     
-## 说明 ##
-此版为最后备份版，出现问题概不负责！
+## 留言 ##
+此版为最后的备份版，出现什么BUG找我也没用┐(´-｀)┌
+建议使用前重装系统，推荐使用centos6
 
